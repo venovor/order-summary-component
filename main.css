@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: hotpink;
+  /* to be removed, use for test only */
+}
+
+/*# sourceMappingURL=main.css.map */
